@@ -1,4 +1,4 @@
-# 💫 About Me:
+Akshat Saini
 <small>👋 Hi, I'm Akshat Saini, a passionate Full-Stack Developer with a knack for crafting dynamic and user-centric web applications. I thrive on solving complex problems and bringing creative ideas to life through code. My journey in development has fuelled a deep appreciation for both the front-end and back-end, and I'm always excited to learn new technologies and refine my skills.<br><br>💻 I'm proficient in:<br>- Frontend: React.js, Next.js, Tailwind CSS<br>- Backend: Node.js, Firebase, Express.js<br>- Databases: Firestore, MongoDB<br>- Tools:Git, GitHub, VSCode<br><br>🚀 Currently, My most recent work is 'ExpressUp', a web application designed to help users track and record their moods daily. It features an interactive calendar, mood selection interface, and integration with Firebase for seamless data management.<br><br>📈 I believe in continuous growth, collaboration, and sharing knowledge with the developer community.<br><br>Feel free to check out my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/axshatInd).</small>
 
 ## 🌐 Socials:
